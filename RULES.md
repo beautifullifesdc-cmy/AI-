@@ -10,17 +10,24 @@
 
 ### Rule 1: 活動記録の義務
 AIエージェントが何らかの活動（分析・提案・資料作成・判断など）を行った場合、  
-**必ず** `activity_logs/YYYY-MM-DD_activity.md` に記録すること。  
+**必ず** `activity_logs/YYYY-MM-DD_HHMM_activity.md` に記録すること。  
 記録フォーマット: `| 時刻 | 実施者 | 活動内容 | 結果 |`
 
 ### Rule 2: CEO報告の義務
 各エージェントは活動の成果物を必ず Jobs (CEO) に報告すること。  
-報告フォーマット: `reports/YYYY-MM-DD_[agent]_report.md`  
+報告フォーマット: `reports/YYYY-MM-DD_HHMM_[agent]_[topic].md`  
 Jobs はオーナーへの統合報告書を必ず作成すること。
 
 ### Rule 3: AI間コミュニケーションの記録義務
 AIエージェント同士がコミュニケーション（情報連携・依頼・フィードバック）を行った場合、  
-**必ず** `ai_communications/YYYY-MM-DD_[from]_to_[to].md` に記録すること。
+**必ず** `ai_communications/YYYY-MM-DD_HHMM_[from]_to_[to].md` に記録すること。
+
+### Rule 4: ファイル命名規則（日時の正確な記録）
+全ファイルの名前には **作成時点の実際の日付と時刻** を使うこと。  
+フォーマット: `YYYY-MM-DD_HHMM_` （例: `2026-05-06_0453_jobs_verdict.md`）  
+- ハードコードした日付は使用禁止
+- 日本時間（JST, UTC+9）を基準とする
+- 同日に複数ファイルを作成する場合、時刻で区別する
 
 ---
 
