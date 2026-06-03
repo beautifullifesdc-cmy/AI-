@@ -1,2 +1,91 @@
-id,salon_name,area,hp_url,salon_type,status,notes
-1,DOG SALON ANELA,横浜市神奈川区,https://sanki-anela.com/,standard,提携済み,6/10撮影予定
+id,prefecture,area_major,area_detail,salon_name,hp_url,instagram_url,salon_type,status,notes
+1,神奈川県,横浜市神奈川区,横浜市神奈川区,DOG SALON & PET HOTEL ANELA,https://sanki-anela.com/,,standard,提携済み,6/10撮影予定・BtoB第1号
+2,東京都,渋谷区,渋谷区東1丁目,ドッグサロン グルーム,https://groom.jp/,https://www.instagram.com/dog_salon_groom/,small,未送信,個人系・ナイフトリミング・スキンケア・英語対応あり
+3,東京都,渋谷区,渋谷区恵比寿,Sunny Dog Villa EBISU,https://www.sunnydogvilla.com,https://www.instagram.com/sdv.ebisu/,small,未送信,個人経営・無添加塩石けんシャンプー・敏感肌の犬向け
+4,東京都,渋谷区,渋谷区本町（初台）,ドッグビューティーサロン Plus Bell,https://plusbell.com/,,small,未送信,個人経営・カウンセリング重視・シニア犬対応
+5,東京都,渋谷区,渋谷区神宮前3丁目,V.I.D. 表参道,https://dogsalonvid.com/,https://www.instagram.com/dogsalonvid/,premium,未送信,トイプードル専門・テディベアカット人気・Instagram強い
+6,東京都,渋谷区,渋谷区恵比寿3丁目,Dog's Palace,https://dogspalace.jp/,,standard,未送信,個人経営・恵比寿ガーデンプレイス近く・大型ペットホテル併設
+7,東京都,渋谷区,渋谷区東4丁目（広尾）,BLISS 広尾店,https://bliss-trimming.com/,https://www.instagram.com/bliss.trimming/,chain,未送信,チェーン系・無料送迎・ペットホテル・複数エリア展開
+8,東京都,渋谷区,渋谷区上原1丁目（代々木上原）,FunkyD plus 代々木上原店,http://yoyogiuehara.funkyd-plus.com/,,small,未送信,個人系・デザインカット・マイクロバブルバス・大型犬〜猫対応
+9,東京都,港区,港区麻布十番2丁目,麻布十番ダンボ本店,https://dumbo-azabu10ban.jp/,https://www.instagram.com/dumbo_azabu/,premium,未送信,高人気・ペットホテル・送迎・複数区対応
+10,東京都,港区,港区南麻布1丁目,Doggie-Do 麻布店,https://doggie-do.com/,https://www.instagram.com/doggiedo.style/,premium,未送信,オールシザーカット・コートタイプ別シャンプー・競合注意（動画サービスあり）
+11,東京都,港区,港区南青山4丁目,Dog Salon Sealy 南青山,https://www.dogsalonsealy.com/,https://www.instagram.com/dogsalonsealy/,premium,未送信,個人経営・完全予約制・フルシザーカット専門・高級志向
+12,東京都,港区,港区南青山（外苑前）,南青山トリミング,http://minamiaoyamatrimming.com/,https://www.instagram.com/minamiaoyama_trimming/,premium,未送信,JKC公認グレードAトリマー在籍・ショーモデル犬対応・高級
+13,東京都,港区,港区南青山4丁目,Organic Salon Mimii For Pets,https://mimii.net/,https://www.instagram.com/organic_salon_mimii_for_pets/,premium,未送信,オーガニック素材特化・猫対応・小型犬中心
+14,東京都,港区,港区高輪3丁目,Joli 高輪店,https://pet-joli.com/,https://www.instagram.com/joli.petsalon/,standard,未送信,年中無休・有機無添加製品・ペットホテル・シッター併設
+15,東京都,港区,港区芝浦3丁目,ドッグスタジオ ラブワン!! 品川芝浦,https://lovewoof.co.jp/,https://www.instagram.com/dogstudio_lovewoof/,chain,未送信,チェーン系・24時間ペットホテル・しつけ教室・トレーナー常駐
+16,東京都,目黒区,目黒区青葉台1丁目（中目黒）,Mercury Dog,https://mercury-dog.com/,https://www.instagram.com/mercury_dog/,small,未送信,個人系・グッズ販売併設・自然派フード・おしゃれな店内
+17,東京都,目黒区,目黒区下目黒3丁目（不動前）,BIBICHE,https://bibiche.jp/,,small,未送信,個人系・ペットホテル・スクール・フード販売等トータルサポート
+18,東京都,目黒区,目黒区下目黒3丁目（不動前）,目黒ホットアミー,https://hotamie.com/,https://www.instagram.com/meguro_hotamie/,small,未送信,24時間スタッフ常駐・ライブカメラ設置
+19,東京都,目黒区,目黒区駒沢5丁目（駒沢公園）,DOG SALON FREESIA,https://freesia-dog.com/,https://www.instagram.com/freesia.dog/,small,未送信,トリミング教室も運営・小型〜大型犬対応
+20,東京都,目黒区,目黒区〜港区南青山,VID GARDEN（V.I.D.2号店）,https://vid-garden.com/,https://www.instagram.com/vid_garden/,chain,未送信,V.I.D.系列・トイプードル専門
+21,東京都,世田谷区,世田谷区（千歳烏山）,SALON KUU,https://salonkuu.net/,,small,未送信,個人経営・経験15年以上・重炭酸泉シャンプー
+22,東京都,世田谷区,世田谷区駒沢（駒沢大学駅近）,M*neige（エムネイジュ）,http://m-neige.com/,https://www.instagram.com/m_neige/,small,未送信,個人経営・小型犬専用・プードル得意・犬マッサージ
+23,東京都,世田谷区,世田谷区深沢1丁目,TOPDOGS 本店,https://topdogs.co.jp/,,chain,未送信,チェーン系・田園調布・等々力に複数店舗・送迎・ペットホテル
+24,東京都,世田谷区,世田谷区上野毛2丁目（二子玉川）,AMU DOG 二子玉川店,https://www.amu-dog.com/,https://www.instagram.com/amu_dog_futakotamagawa/,standard,未送信,個人系・二子玉川エリア
+25,東京都,世田谷区,世田谷区,ペットサロン mikimiki（会員制）,https://www.petsalon-mikimiki.com/,,premium,未送信,会員制・高級志向・ペットホテル完備・送迎対応
+26,東京都,品川区,品川区東大井3丁目（立会川）,トリミングサロン アラモード 品川店,https://www.ts-alamode.com/salon-list/shinagawa/,https://www.instagram.com/trimming_alamode/,chain,未送信,チェーン系・動物病院併設・カウンセリング重視
+27,東京都,品川区,品川区大崎（大崎広小路）,DOG SPA PRETTY STARS,https://www.dog-spa-pretty-stars.com/,https://www.instagram.com/dogspapretty/,standard,未送信,犬猫両対応・オゾンナノバブルシャワー・ペットホテル併設
+28,東京都,品川区,品川区戸越6丁目（戸越公園）,Petgoods & Trimming Welina,,,small,未送信,個人系・ペットグッズ販売併設・超音波ハイドロバス
+29,東京都,品川区,品川区南大井3丁目（大森海岸）,ペットサロン＆ホテル らぶはーと,https://www.loveheart1551.com/,https://www.instagram.com/loveheart.trimming/,small,未送信,個人経営・大型犬〜多頭対応・1日2回散歩
+30,東京都,品川区,品川区小山3丁目（武蔵小山）,ワンワンランドマウンテン,,,small,未送信,個人経営・武蔵小山パルム商店街内・30年超キャリアオーナー
+31,東京都,新宿区,新宿区住吉町（曙橋）,ペットサロン ぱろ,https://pet-paro.com/,https://www.instagram.com/pet_paro/,small,未送信,個人経営・トリミング＋ペットホテル＋ペット用品・曙橋駅すぐ
+32,東京都,新宿区,新宿区市谷薬王寺町（牛込柳町）,trimming salon ROCCO,https://trimming-salon-rocco.com,,small,未送信,個人経営・小型犬専門・ペットホテル併設
+33,東京都,新宿区,新宿区山吹町（神楽坂）,Joli 神楽坂店,https://pet-joli.com/,,standard,未送信,犬猫両対応・ハーブパック・炭酸泉温浴・年中無休（高輪店と同チェーン）
+34,東京都,新宿区,新宿区中井,ペットサロン ララルー,https://dogsalon-lalalu.com/,https://www.instagram.com/petsalon_lalalu/,small,未送信,個人経営・ベテラントリマー・アットホーム
+35,東京都,新宿区,新宿区下落合（高田馬場）,Dog Resort WAN LIFE,https://www.wanlife-dog.com,,standard,未送信,フォトスタジオ併設・小型〜大型犬対応
+36,東京都,杉並区,杉並区天沼（荻窪）,cheer,https://cheer-dog.jp/,,standard,未送信,オゾン・炭酸泉シャワー標準・ペットホテル併設・年中無休
+37,東京都,杉並区,杉並区浜田山,Dog Grooming Cure,http://dog-cure.com/,,small,未送信,マイクロバブルナノシャワー・歯磨き込み・送迎対応・個人経営
+38,東京都,杉並区,杉並区下高井戸,Wan's Collection Lovely Pet Salon,https://wans-collection.com/,https://www.instagram.com/lovelypetsalon_wans_collection/,small,未送信,デザインカット重視・撮影サービスあり（競合注意）
+39,東京都,杉並区,杉並区成田東（南阿佐ヶ谷）,AndyCafe DogSalon 阿佐ヶ谷店,https://andycafe.com/asagaya/,,chain,未送信,大型犬用昇降バス完備・チェーン系
+40,東京都,中野区,中野区南台（方南町）,アニマルサロン ひまわり,https://nakano-himawari.com/,,small,未送信,個人経営・方南町駅徒歩5分・地元人気
+41,東京都,中野区,中野区弥生町（新中野）,Trimming Salon Moi,https://trimming-moi.com/,,small,未送信,夫婦運営の小規模個人サロン・パピー〜シニア対応
+42,東京都,中野区,中野区本町,ドッグサロン＆ホテル WITH 中野店,https://nakano.dog-with.co.jp/,https://www.instagram.com/dogsalonwith/,chain,未送信,複数店舗展開・送迎可・小型〜大型犬
+43,東京都,練馬区,練馬区旭丘,VJ DOG,https://www.vjdog.com/,,small,未送信,個人経営・アットホーム・地元人気
+44,東京都,練馬区,練馬区,ドッグサロンSTORY,https://dogsalon-story822.com/,,small,未送信,全コースセット料金・個人経営
+45,東京都,練馬区,練馬区東大泉（大泉学園）,dog salon LUCIA,https://dogsalon-lucia.com,,small,未送信,小〜中型犬専門・オーガニックトリートメント
+46,東京都,練馬区,練馬区（練馬・豊島園）,Salon de pet chuchu,https://www.salon-de-pet-chuchu.com,,small,未送信,トリマー歴40年以上・個人サロン・リピート割引あり
+47,東京都,豊島区,豊島区南池袋,Dog Salon alba,https://alba-dog.com/,,premium,未送信,マイクロバブル温浴全コース標準・完全予約制
+48,東京都,豊島区,豊島区上池袋,ペットサロン のら,https://www.petsalon-nora.com/,https://www.instagram.com/petsalon_nora/,small,未送信,創業40年以上の老舗・猫対応・送迎あり
+49,東京都,豊島区,豊島区雑司が谷,DOG SALON ON,https://dogsalonon.com/,,standard,未送信,池袋・目白エリア対応・犬種問わず幅広く対応
+50,東京都,板橋区,板橋区板橋（新板橋）,DUO Trimming Studio,https://www.duo-trimming-studio.com/,,standard,未送信,5種類の高級シャンプー無料選択・猫対応・ペットホテル
+51,東京都,板橋区,板橋区上板橋,ドッグサロンBull-Bull,https://www.bull-bull.jp/,,small,未送信,個人経営・ナノバブルオゾンシャワー・完全予約制
+52,東京都,板橋区,板橋区徳丸（イオン板橋SC内）,ペテモ グルーミングサロン 板橋店,https://www.aeonpet.com/shop/itabashi/,,chain,未送信,イオンペット系チェーン・大型SC内
+53,東京都,立川市,立川市幸町,DOG DIAMOND,http://www.dog-diamond.com/,https://www.instagram.com/dogdiamond_jp/,standard,未送信,屋上ドッグラン・24時間スタッフ常駐・犬の保育園
+54,東京都,立川市,立川市富士見町,Dog Place Oasis,https://dogplace-oasis.jp/,https://www.instagram.com/dogplaceoasis/,standard,未送信,昭和記念公園近く・ハイドロドッグバス・ペットホテル
+55,東京都,武蔵野市,武蔵野市吉祥寺東町,SOPRA 吉祥寺店,https://www.sopraginza.com/shop/kichijoji/,https://www.instagram.com/sopra_ginza/,chain,未送信,銀座発高級ペットサロンチェーン・しつけトレーニング
+56,東京都,武蔵野市,武蔵野市吉祥寺北町,patria K,https://www.patria-k.com/,,premium,未送信,完全予約制・オーナートリマーによる1頭ずつ対応
+57,神奈川県,横浜市西区,横浜市西区中央（戸部）,CocoA trimming & market 横浜本店,https://www.e-cocoa.jp/,,chain,未送信,横浜生まれチェーン系・ペットホテル併設
+58,神奈川県,横浜市中区,横浜市中区太田町（馬車道）,PET HOTEL & SALON NUMBER ONE,http://pet-numberone.com/,,small,未送信,ペットホテル併設・馬車道駅すぐ・個人経営
+59,神奈川県,横浜市中区,横浜市中区（関内・伊勢佐木長者町）,ONE LUKE 横浜中区店,https://oneluke.net/yokohamanakaku/,https://www.instagram.com/oneluke_yokohama/,chain,未送信,全国100店舗チェーン・ペットホテル＆トリミング
+60,神奈川県,横浜市中区,横浜市中区本牧,enble 本牧店,https://enble.jp/honmoku/,https://www.instagram.com/groomingsalon_enble/,standard,未送信,美容室グループ系・カウンセリング重視・季節フォトブース
+61,神奈川県,横浜市神奈川区,横浜市神奈川区片倉,ATOLL,https://www.pet-atoll.com/,,small,未送信,ペットホテル・ペット温泉併設・個人経営
+62,神奈川県,横浜市神奈川区,横浜市神奈川区金港町（横浜ベイクォーター）,PET-SPA 横浜ベイクォーター店,https://www.pet-spa.co.jp/shop/kanagawa/yokohama/,https://www.instagram.com/petspa_yokohamabayquarter/,chain,未送信,西武ペットケア系チェーン・海が見えるロケーション
+63,神奈川県,横浜市港北区,横浜市港北区大倉山,M Dog Spa,https://www.mdogspa.jp/,,small,未送信,2008年創業の老舗・月間通い放題プランあり
+64,神奈川県,横浜市港北区,横浜市港北区北新横浜（新横浜）,PET CARE BEAUTE,https://www.pet-care-beaute.cc/,https://www.instagram.com/petcarebaute/,standard,未送信,2023年開業・室内ドッグラン・スキンケア特化
+65,神奈川県,横浜市港北区,横浜市港北区新吉田東（高田駅）,ドッグサロン アランジュ,,https://www.instagram.com/_dogsalon.ange_/,small,未送信,トリマー歴21年の個人経営・一頭一頭に合わせた提案
+66,神奈川県,横浜市青葉区,横浜市青葉区,OCEANDOG,https://oceandog-trimmingsalon.com/,,small,未送信,青葉区の個人経営・犬と家族の幸せを重視
+67,神奈川県,横浜市青葉区,横浜市青葉区青葉台,わんにゃん工房 青葉台店,https://wannyankobo.com/,,standard,未送信,トリミング＋ペットホテル・「二番目のお家」をコンセプト
+68,神奈川県,横浜市青葉区,横浜市青葉区（たまプラーザ）,ナチュラルペットケアサロン シアン・シアン,,https://www.instagram.com/pet_shienshien/,small,未送信,屋上70坪ドッグラン・ペットホテル・ペットエステ
+69,神奈川県,横浜市都筑区,横浜市都筑区中川中央（センター北）,enble センター北店,https://enble.jp/centerkita/,https://www.instagram.com/enble__centerkita/,standard,未送信,美容室グループ系・カウンセリング重視・季節フォトブース
+70,神奈川県,横浜市戸塚区,横浜市戸塚区（不動坂）,ペットサロンあとむ,https://www.petsalon-atom.jp/,,premium,未送信,ビション・フリーゼ専門・ドッグショーチャンピオン犬輩出・完全予約制
+71,神奈川県,横浜市戸塚区,横浜市戸塚区平戸町（東戸塚）,Dog Salon HINA,https://dogsalon-hina.jp/,,small,未送信,大手15年経験のトリマーが独立・コンテスト受賞・オーガニックシャンプー
+72,神奈川県,川崎市中原区,川崎市中原区宮内（武蔵小杉）,ドッグサロンVITA,https://vita-animal.jp/,https://www.instagram.com/dogsalonvita7111/,standard,未送信,トリミング・ペットホテル・しつけ教室・保育園を総合展開
+73,神奈川県,川崎市中原区,川崎市中原区元住吉,ミラーズ・ホイス,https://m-royce.com/,,small,未送信,2003年創業の老舗・担当トリマー制・個人経営
+74,神奈川県,川崎市幸区,川崎市幸区南幸町（川崎駅近）,toidog,https://toidog.com/,,premium,未送信,会員制・高カット技術・ライフスタイルサポート
+75,神奈川県,川崎市幸区,川崎市幸区・川崎区,ハッピースリー,http://www.happy3.biz/,,chain,未送信,地域密着チェーン・ペットホテル併設
+76,神奈川県,川崎市多摩区,川崎市多摩区西生田（読売ランド前）,MONGATA,https://mongata.fun/,https://www.instagram.com/mon_gata/,small,未送信,2022年開業・上質な個人経営・ReFaシャワー使用
+77,神奈川県,藤沢市,藤沢市片瀬（江ノ島駅徒歩5分）,BLUE PAWS,https://bluepaws.jp/,,premium,未送信,プライベートサロン・ケージフリー・他犬が苦手な犬に配慮
+78,神奈川県,藤沢市,藤沢市宮前,DOG NAUTICA,https://dognautica.fun/,,small,未送信,個人経営・ドッグトレーニング併設・歯磨きサービス
+79,神奈川県,藤沢市,藤沢市柄沢,dog & cat salon tomoni,,https://www.instagram.com/dog_cat_salon_tomoni/,small,未送信,トリマー歴14年・パピーからハイシニア対応・個人経営
+80,神奈川県,鎌倉市,鎌倉市腰越（江ノ電腰越駅近）,INU TORORI,https://www.kingpaws.jp/,,small,未送信,ガラス張りでトリミング見学可・コーヒーサービスあり
+81,神奈川県,鎌倉市,鎌倉市岩瀬,ペットの床屋ラムネ,https://ramune-tokoya.com/,,small,未送信,アットホームな個人経営・犬猫対応・ストレスフリー施術
+82,神奈川県,鎌倉市,鎌倉市大町,Dogsalon Stable,https://www.dogsalonstable.com/,,premium,未送信,築100年古民家リノベ・1頭ずつ対応・マイクロバブルシャワー標準・2022年開業
+83,神奈川県,鎌倉市,鎌倉市大船西口（大船駅近）,トリミングサロン カニッシュ,https://www.ofuna-caniche.com/,,small,未送信,大船駅西口・個人経営
+84,神奈川県,鎌倉市,鎌倉市岡本（大船駅近）,ONE LUKE 鎌倉大船駅店,https://oneluke.net/oohunaeki/,,chain,未送信,全国100店舗チェーン・ペットホテル＆トリミング
+85,神奈川県,鎌倉市,鎌倉市雪ノ下（鶴岡八幡宮近く）,BOWWOW BARBER,http://www.bowwowbarber.jp/,,premium,未送信,鎌倉の完全予約制個人経営サロン
+86,神奈川県,相模原市,相模原市緑区東橋本（橋本駅近）,LOULOU,https://loulou.jp/,https://www.instagram.com/salondeloulou/,small,未送信,アットホーム個人経営・年齢制限なし
+87,神奈川県,相模原市,相模原市中央区上溝（番田駅前）,ドッグサロンクーカイ,https://www.dogssalon-coocai.com/,,small,未送信,1トリマー担当制・アットホーム・2020年移転リニューアル
+88,神奈川県,相模原市,相模原市中央区（相模原駅近）,Trimming Salon Soime.,,,,small,未送信,ケージフリー・個人経営
+89,神奈川県,相模原市,相模原市南区西大沼（古淵駅近）,dogsalon はたころも,https://hatakoromo.com/,,small,未送信,ケージなし保育スタイル・個人経営・平日営業
+90,神奈川県,相模原市,相模原市南区古淵（イオン相模原SC内）,ペテモ グルーミングサロン 相模原店,https://www.aeonpet.com/shop/sagamihara/index.html,https://www.instagram.com/petemo_official/,chain,未送信,イオンペット系チェーン・商業施設内・無休営業
