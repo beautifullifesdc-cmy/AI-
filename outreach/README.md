@@ -1,58 +1,63 @@
-# Beautiful Life — 営業自動化ツール
+# Beautiful Life 営業ツール
 
-## 使い方（3ステップ）
+## 起動方法
 
-### Step 1: サロンリストに追加
-`salon_list.csv` を開いて、営業したいサロンの情報を追加する。
-
-```csv
-id,salon_name,area,instagram_handle,email,contact_method,status,notes
-3,トリミングサロンOO,渋谷区,@oo_salon,,instagram,未送信,
-4,Dog Salon PP,世田谷区,,info@pp.com,email,未送信,
-```
-
-`contact_method` は `instagram` か `email` を入力。
-
-### Step 2: メッセージ生成
 ```bash
 cd /home/user/AI-/outreach
-python3 generate_outreach.py
+python3 outreach.py
 ```
-
-`generated/` フォルダに日付入りのファイルが生成される。
-
-### Step 3: 送信 & ステータス更新
-生成されたファイルを開いてメッセージをコピー → Instagram DMに貼り付けて送信。
-送信後、`salon_list.csv` の `status` を `送信済み` に更新。
 
 ---
 
-## サンプルURLの更新方法
+## コマンド一覧
 
-サンプル動画が完成したら `generate_outreach.py` の以下の行を更新：
+| コマンド | 内容 |
+|---------|------|
+| `add` | サロン名・HP URLを入力 → テンプレを即生成 |
+| `search` | おすすめサロン一覧 → 選んでリストに追加 |
+| `generate` | 未送信サロン全件のメッセージをファイル出力 |
+| `list` | 登録サロンと送信状況を一覧表示 |
+| `status` | 送信状況を更新（送信済み・商談中・提携済みなど） |
+
+---
+
+## 基本的な使い方の流れ
+
+```
+① python3 outreach.py search
+   → おすすめサロンを見てリストに追加
+
+② python3 outreach.py add
+   → 自分で見つけたサロンを追加
+
+③ python3 outreach.py generate
+   → 全メッセージを一括生成・ファイルに保存
+
+④ DMを送ったら python3 outreach.py status で「送信済み」に更新
+```
+
+---
+
+## サンプルURLの更新
+
+サンプル動画が完成したら `outreach.py` の以下を変更：
 
 ```python
-SAMPLE_VIDEO_URL = "https://www.instagram.com/p/XXXXXXXX/"  # ← 実際のURLに変更
+SAMPLE_URL = "https://www.instagram.com/p/XXXXXXXX/"  # ← 実際のURLに
 ```
 
 ---
 
-## ステータス管理
+## salon_list.csv について
 
-| status値 | 意味 |
-|---------|------|
-| 未送信 | まだ連絡していない |
-| 送信済み | DM/メール送信完了 |
-| 返信あり | 返信が来た |
-| 商談中 | アポ・交渉中 |
-| 提携済み | 契約成立 |
-| 見込みなし | 断られた or 合わない |
+手動で編集しても OK。フィールドは以下：
 
----
-
-## テンプレートのカスタマイズ
-
-`generate_outreach.py` 内の以下の変数を編集：
-- `TEMPLATE_INSTAGRAM_DM` — Instagram DM文
-- `TEMPLATE_EMAIL` — メール文
-- `TEMPLATE_FOLLOWUP_DM` — フォローアップ文
+| フィールド | 内容 |
+|-----------|------|
+| id | 自動採番 |
+| salon_name | サロン名 |
+| area | エリア（例: 渋谷区） |
+| hp_url | HP の URL |
+| salon_type | premium / standard / small / chain |
+| status | 未送信 / 送信済み / 返信あり / 商談中 / 提携済み / 見込みなし |
+| notes | メモ |
