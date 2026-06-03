@@ -1,0 +1,44 @@
+id,prefecture,area_major,area_detail,facility_name,hp_url,instagram_url,facility_type,status,notes
+1,東京都,渋谷区,代官山・恵比寿,evergreen pet & cafe EBISU,https://www.evergreen-pet.com/,,standard,未送信,ペットカフェ併設・室内ドッグラン
+2,東京都,渋谷区,恵比寿,Dog Run M,,,small,未送信,室内ドッグラン
+3,東京都,港区,芝公園,inumo 芝公園,https://inumo.jp/shibapark/,,chain,未送信,inumoチェーン・室内ドッグラン
+4,東京都,港区,高輪,PET-SPA 高輪店,,,standard,未送信,室内ドッグラン・トリミング併設
+5,東京都,目黒区,中目黒,Brown,,,small,未送信,室内ドッグラン・カフェ
+6,東京都,世田谷区,経堂,DOG SOCIALIZE CLUB,,,standard,未送信,室内ドッグラン・コミュニティ型
+7,東京都,世田谷区,三宿,Le Lien,,,premium,未送信,室内ドッグラン・高級路線
+8,東京都,世田谷区,梅ヶ丘,4&2 梅ヶ丘店,,,standard,未送信,室内ドッグラン
+9,東京都,世田谷区,世田谷,BUDDYS Total Pet Salon,,,standard,未送信,室内ドッグラン・トリミング併設
+10,東京都,台東区,浅草,DOGLY DOGRUN,,,standard,未送信,室内ドッグラン
+11,東京都,江東区,有明,HOT DOG TOWN Ariake,,,premium,未送信,大型屋内ドッグラン施設
+12,東京都,墨田区,押上,HanBunLong studio,,,small,未送信,室内ドッグラン・フォトスタジオ
+13,東京都,板橋区,蓮沼,DOG TOWN AZUSAWA,,,standard,未送信,室内ドッグラン
+14,東京都,豊島区,池袋,ペットショップ ラビータ池袋本店,,,standard,未送信,ペットショップ内室内ドッグラン
+15,東京都,足立区,足立,わんこのみかた,,,small,未送信,小規模室内ドッグラン
+16,東京都,足立区,足立,小型犬室内ドッグランMix,,,small,未送信,小型犬専用室内ドッグラン
+17,東京都,足立区,足立,Bell Dog,,,small,未送信,室内ドッグラン
+18,東京都,荒川区,荒川,ドッグラン&カフェバーノンノバドール,,,standard,未送信,室内ドッグラン・カフェ
+19,東京都,練馬区,練馬,ルーモドッグスクール,,,standard,未送信,室内ドッグラン・トレーニングスクール
+20,東京都,練馬区,石神井,for dogs ぱうぜ,,,small,未送信,小型犬専用室内ドッグラン
+21,東京都,武蔵野市,吉祥寺,DOG&CAT JOKER コピス吉祥寺店,https://dogcat-joker.com/,,chain,未送信,チェーン系・コピス吉祥寺内
+22,東京都,町田市,町田,Dog Field LOCO,,,standard,未送信,室内ドッグラン
+23,東京都,町田市,南町田,DOG&CAT JOKER 南町田グランベリーパーク店,https://dogcat-joker.com/,,chain,未送信,チェーン系・グランベリーパーク内
+24,東京都,八王子市,八王子,わんこびより,,,small,未送信,室内ドッグラン・カフェ
+25,神奈川県,横浜市,中区山下町,WANCOTT（ワンコット）,https://www.wancott.com/,https://www.instagram.com/wancott.com.yokohama/,premium,未送信,国内最大級約600㎡の全天候型室内ドッグラン。小型犬・中大型犬エリアあり。カフェ・トリミング・ペットホテル等の大型複合施設。有料会員制。
+26,神奈川県,横浜市,神奈川区広台太田町,DSシェアドッグラン,https://ds-share.jp/lp_dogrun/,,standard,未送信,24時間営業・無人運営のシェア型室内ドッグラン。約80㎡。LINEまたはWEBで予約。セルフシャンプー設備あり。
+27,神奈川県,横浜市,瀬谷区橋戸,DOG ISLAND瀬谷店,https://dogisland.studio.site/,https://www.instagram.com/dogisland2025/,standard,未送信,完全屋内・全犬種対応。冷暖房完備・無人予約制。6:00〜22:00年中無休。1時間900円。
+28,神奈川県,横浜市,港北区北新横浜,ペットケア ボーテ,https://www.pet-care-beaute.cc/,,standard,未送信,室内ドッグラン。トリミング・ペットホテル併設。ホテルプラタナス1F。
+29,神奈川県,横浜市,都筑区センター北,ペットフォレスト ノースポートセンター北店,https://petforest.co.jp/shop/68916/,https://www.instagram.com/petforest_northport/,chain,未送信,2024年9月開業。屋内ドッグラン完備。トリミングサロン・動物病院（予防クリニック）併設。
+30,神奈川県,横浜市,金沢区並木,ペテモビアレ横浜店,https://www.aeonpet.com/shop/viale_yokohama/,,chain,未送信,イオンペット系。会員カード提示で無料利用可。10:00〜19:00。アジリティ設備あり。
+31,神奈川県,横浜市,神奈川区山内町,Latere Garden（ラテレガーデン）,https://latere.jp/garden/,https://www.instagram.com/latere_garden/,standard,未送信,ドッグカフェ＋室内ドッグラン。25kg以下の小中型犬対応。港の景色が楽しめるロケーション。
+32,神奈川県,川崎市,川崎区,ドッグパーク川崎,https://dogparkkawasaki.jp/,,standard,未送信,小型犬専用（10kg以下）の全天候型室内ドッグラン。カフェ併設。約60坪のドッグランエリア＋フォトスポット。
+33,神奈川県,川崎市,中原区新城,Doggy's Camp（ドギーズキャンプ）,https://doggyscamp.com/,https://www.instagram.com/doggys__camp/,standard,未送信,無人運営・会員予約制シェア型室内ドッグラン。武蔵新城駅徒歩3分。6:00〜22:00年中無休。30分660円〜。
+34,神奈川県,川崎市,中原区武蔵小杉,Paws Room（ぱうずるーむ）,,https://www.instagram.com/pawsroom_111/,small,未送信,小型犬向け室内ドッグラン。スタッフ常駐・貸切あり。月曜定休。
+35,神奈川県,川崎市,宮前区西野川,INUK BASE（イヌキベース）,https://inukbase.com/,https://www.instagram.com/inuk.inc/,standard,未送信,屋上ドッグラン（人工芝）＋カフェ＋駄菓子屋の複合施設。貸切プランあり。富士山・スカイツリーの眺望。
+36,神奈川県,川崎市,高津区二子,ドッグインク多摩川,https://doginc.jp/,,standard,未送信,全天候型室内ドッグラン。完全予約制（電話のみ）。トリミング・ペットホテル・デイケア（わんこ保育園）併設。二子新地駅徒歩1分。
+37,神奈川県,川崎市,麻生区片平,ドッグラン アン・ジュール,https://www.dogrun-unjour.com/,,standard,未送信,会員制ドッグラン（約100坪・砂地）。貸切プランあり。ログハウス（冷暖房完備）内で軽食持込可。アジリティ設備あり。
+38,神奈川県,藤沢市,辻堂新町,BOOOON湘南辻堂,,https://www.instagram.com/boooontsujidou/,small,未送信,小型犬専用（10kg未満）室内ドッグラン＋セルフフォトスタジオ。2025年6月グランドオープン。9:00〜18:00。月曜定休。
+39,神奈川県,藤沢市,用田,マハロハレ（MAHALO HALE）,https://mahalohale.mahalo-garden.com/,https://www.instagram.com/mahalohale/,premium,未送信,完全予約制貸切ドッグラン（プール付き）。プレミアムリゾートコンセプト。9:00〜18:00（夏季〜20:00）。木曜定休。
+40,神奈川県,横須賀市,ハイランド,ハイランドドッグヤード,https://hi-dogyard.com/,https://www.instagram.com/highland.dogyard/,standard,未送信,遊具・プール・くつろぎスペースを備えた複合施設。通年利用可能なプールあり。水曜定休。
+41,神奈川県,相模原市,中央区陽光台,DogCafe Smiley smile（スマイリースマイル）,https://www.smiley--smile.com/,https://www.instagram.com/smiley2525smile/,small,未送信,ドッグカフェ＋室内ドッグラン（約40㎡・冷暖房完備）。大型犬・貸切OK。カフェ利用で無料ドッグラン利用可（年会費550円）。火水定休。
+42,神奈川県,厚木市,長谷,あいゆう倶楽部,https://aiyuuclub.com/,https://www.instagram.com/aiyuuclub/,standard,未送信,室内ドッグラン（非会員利用可・貸切対応）。トリミング・ペットホテル・ペット保育園併設。要電話予約。
+43,神奈川県,厚木市,恩名,AOZO-RUN（アオゾラン）,https://aozorun.com/,https://www.instagram.com/aozorun/,standard,未送信,複合型ドッグ施設。室内ドッグラン（全面人工芝・アジリティ設備）。カフェ・ペットホテル・トリミング・デイケア・マルシェ併設。
