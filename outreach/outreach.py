@@ -19,7 +19,8 @@ from datetime import datetime
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 SALON_CSV = os.path.join(BASE_DIR, "salon_list.csv")
 OUTPUT_DIR = os.path.join(BASE_DIR, "generated")
-SAMPLE_URL = "https://youtube.com/playlist?list=PLScmpAnKOU2o&si=_Bo1gsP7vS3RlUDA"  # トリミング撮影サンプル
+SAMPLE_URL = "https://youtu.be/71vGjnKQV-M"  # メインサンプル（1本・限定公開）
+PLAYLIST_URL = "https://youtube.com/playlist?list=PLScmpAnKOU2o&si=_Bo1gsP7vS3RlUDA"  # 他の作品一覧
 
 CSV_FIELDS = ["id", "salon_name", "area", "hp_url", "salon_type", "status", "notes"]
 
