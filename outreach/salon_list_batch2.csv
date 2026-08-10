@@ -1,0 +1,47 @@
+id,prefecture,area_major,area_detail,salon_name,hp_url,instagram_url,salon_type,ig_status,status,notes
+1,東京都,墨田区,錦糸町,ペットサロンカレン,https://www.petsalon-karen.com/,https://www.instagram.com/pet_salon_karen/,standard,確認済み,未送信,ペットホテル併設のアットホームサロン
+2,東京都,墨田区,押上・向島,ドッグサロン栗と海,http://www.kuri-to-umi.com/,https://www.instagram.com/dogsalon.kuri_to_umi/,individual,確認済み,未送信,とうきょうスカイツリー駅徒歩3分・オーナー主体
+3,東京都,台東区,浅草橋,隠れ家トリミングサロンコッコローネ,https://torimmingsalon-coccolone.jimdofree.com/,https://www.instagram.com/coccolone43/,individual,確認済み,未送信,ドッグカフェ併設
+4,東京都,北区,王子,王子ペットクリニックトリミングサロンクローバー,https://trim-clover.oji-pet.jp/,https://www.instagram.com/trimming_clover/,standard,確認済み,未送信,動物病院併設の予約制サロン
+5,東京都,調布市,多摩川,トリミングサロンLOVE DOG,http://lovedog.tokyo/index.html,https://www.instagram.com/peko_peko2016/,individual,確認済み,未送信,トリマー1人の小さなサロン
+6,東京都,葛飾区,水元,トリミングサロン・エムズ,https://trrimingsalonemuzu.com/,https://www.instagram.com/trimmingsalon.emuzu/,individual,確認済み,未送信,水元公園徒歩5分
+7,東京都,府中市,北山町,Dog Salon Puchi,https://puchi-1108.net/,https://www.instagram.com/dogsalon_puchi/,individual,確認済み,未送信,オーガニックシャンプー使用
+8,東京都,大田区,池上,デイケア・トリミングサロン仔友会,https://petlife.asia/salon/11307/,,individual,未確認,未送信,完全予約時間制の貸切・マンツーマン施術
+9,東京都,大田区,下丸子,Dog Select,https://dog-select.com/,,standard,未確認,未送信,トリミングとペットホテルを併設
+10,東京都,江東区,大島,トリミングサロンnook,https://nook.dog/,,individual,未確認,未送信,6kgまでの小型犬専門サロン
+11,東京都,江東区,清澄白河,Fairytale(フェアリーテール),http://www.jolly-job.com/fairytale/,,individual,未確認,未送信,送迎・ペットホテルも対応
+12,東京都,足立区,青井,トリムパル,https://www.trim-pal.info/,,individual,未確認,未送信,自宅にトリミングルーム増設・完全予約制
+13,東京都,江戸川区,瑞江,Dog Salonピーナッツ,https://ds-peanuts.crayonsite.com/,,individual,未確認,未送信,トリミングカーも運営
+14,東京都,江戸川区,北小岩,Dog Salon Aroma,https://dogsalonaroma.com/,,individual,未確認,未送信,「のんびりできる空間」がコンセプト
+15,東京都,文京区,千石,Dog Salon A's,https://www.dogsalon-as.com/,,standard,未確認,未送信,JKC A級保持者や愛玩動物看護師が在籍
+16,東京都,中央区,日本橋・水天宮,トリミングサロン カプリ,https://www.capri-pet.com/,,standard,未確認,未送信,小規模トリミングサロン
+17,東京都,千代田区,九段南,Komachi Tokyo,https://komachitokyo.com/,,premium,要再確認,未送信,系列店複数あり（神楽坂・音羽等）。九段店の存在は要確認
+18,東京都,荒川区,熊野前,犬の美容室ELLE,http://salonde-elle.com/,,individual,未確認,未送信,全面ガラス張りのトリミングルーム
+19,東京都,八王子市,八王子駅周辺,トリミングサロンHiTOMi,https://trimming-hitomi.com/,,individual,未確認,未送信,トリマー歴29年のオーナー経営
+20,東京都,八王子市,台町,トリミングサロンDogism,http://dog--ism.com/,,individual,未確認,未送信,完全予約制・木曜定休
+21,東京都,町田市,玉川学園,トリムハウスZOO,https://trimhouse-zoo.jp/,,standard,未確認,未送信,オゾンシャワー使用
+22,東京都,三鷹市,下連雀,トリミングサロンわんびー,https://www.ekiten.jp/shop_42148711/,,individual,未確認,未送信,毎回同じトリマーが担当
+23,東京都,小金井市,東小金井,サクラペトロ,http://sakura-petal.com/,,individual,未確認,未送信,2006年開業・完全予約制
+24,神奈川県,横須賀市,長坂,Dog Salon ANELA（横須賀）,https://yokosukadog.jp/,https://www.instagram.com/dogsalon.anela/,individual,確認済み,未送信,※既存提携先「ANELA」（横浜市神奈川区）とは別店舗・名称類似に注意
+25,神奈川県,大和市,代官,ドッグサロン Lani,https://www.dogsalon-lani.com/,https://www.instagram.com/dogsalon_lani/,individual,確認済み,未送信,自宅の一室がサロン・個人経営
+26,神奈川県,三浦市,南下浦町,DogSalon Niify,,https://www.instagram.com/dogsalonniify/,individual,確認済み（HPなし）,未送信,小規模個人トリミングサロン
+27,神奈川県,逗子市,沼間,トムズペットケアセンター,https://www.tomsamc.com/n6care3_grooming.html,,standard,未確認,未送信,動物病院併設のグルーミングサービス
+28,神奈川県,平塚市,公所,わんにゃん美容 永遠(トワ),https://wannyan-towa.com/,,individual,未確認,未送信,トリマー歴30年・ペットホテル併設
+29,神奈川県,茅ヶ崎市,鉄砲通り,ワンちゃんのお風呂屋さん あぱらぎ,https://www.aparagidog.com/,,individual,未確認,未送信,シニア犬や疾患持ちの犬にも対応
+30,神奈川県,小田原市,海が近い立地,プライベートドッグサロン クンクン,https://www.privatedogsalon-kunkun.jp/,,individual,未確認,未送信,常に1対1でトリミング実施
+31,神奈川県,厚木市,山際,ハッピーれん,https://happy-ren.com/,,individual,未確認,未送信,完全予約制パーソナルサロン
+32,神奈川県,座間市,栗原中央,トリミングサロンKona,https://trimmingsalonkona.jimdosite.com/,,individual,未確認,未送信,完全予約制・専用駐車場1台完備
+33,神奈川県,海老名市,東柏ケ谷方面,Trimming & Care Mane.,https://www.dog-mane.com/,,individual,未確認,未送信,スウェーデン式マッサージも実施
+34,神奈川県,秦野市,市内,ペットショップりあん,https://petlien.com/,,standard,未確認,未送信,JKC公認トリマー在籍・犬猫両対応
+35,神奈川県,伊勢原市,板戸,Dog salon Diary,https://epark.jp/shopinfo/pts585404/,,individual,未確認,未送信,木の温もりある雰囲気
+36,神奈川県,横浜市保土ヶ谷区,和田町,とりみんぐさろん 犬の床屋,https://www.inunotokoya1058.com/,,individual,未確認,未送信,店主がトリミングスクール講師も務める
+37,神奈川県,横浜市旭区,二俣川,ペットサロンHANA,https://pettosaronhana.net/,,individual,未確認,未送信,宿泊・一時預かりにも対応
+38,神奈川県,横浜市磯子区,上中里町(杉田),トリミングサロン Confetto,https://cattery-confetto.com/,,premium,未確認,未送信,2024年10月開業・犬猫でトリミング室を分離
+39,神奈川県,横浜市金沢区,西柴,Tiara Trimming salon,https://tiara-trim.com/,,individual,未確認,未送信,金沢区で15年続く小さなサロン
+40,神奈川県,横浜市泉区,中田,Dogking 中田店,http://dogking.cc,,standard,未確認,未送信,横浜市内3店舗展開のローカルチェーン
+41,神奈川県,横浜市栄区,笠間(大船),トリミングサロン ブルーム,https://camec-of.jp/ts-blume/,,standard,未確認,未送信,動物病院併設
+42,神奈川県,横浜市瀬谷区,市内,HAPPY mo.mo,https://dog-happymomo.jimdofree.com/,,individual,未確認,未送信,経験豊富なトリマーによるコース展開
+43,神奈川県,川崎市川崎区,中島(貝塚エリア),Dogsalon&Hotel mili mili,https://www.milimili.org/,,standard,未確認,未送信,ペットホテル併設・アロマスパ提供
+44,神奈川県,川崎市高津区,末長,クミコペットサロン,http://www.kumikopetsalon.jp/,,individual,未確認,未送信,「ペットが行きたがるサロン」がコンセプト
+45,神奈川県,川崎市宮前区,市内,Grace Plus,https://graceplus.tokyo/,,premium,未確認,未送信,1日1〜2家族限定のプライベートサロン
+46,神奈川県,川崎市麻生区,市内,ドッグビューティーサロンユリ,https://www.dogbeautysalon-yuri.com/,,individual,未確認,未送信,犬猫対応・定休日は火・水
